@@ -1,0 +1,500 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6B77763B-2C7E-4898-9620-59DFCCC11311}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FightingGame</RootNamespace>
+    <AssemblyName>FightingGame</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CharacterInfo\Alternative\AlternativeCharacter.cs" />
+    <Compile Include="CharacterInfo\Alternative\AlternativeEffects.cs" />
+    <Compile Include="CharacterInfo\Alternative\AlternativeInfo.cs" />
+    <Compile Include="CharacterInfo\Alternative\AlternativeStats.cs" />
+    <Compile Include="Pages\Character\FullInfoPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Character\FullInfoPage.Designer.cs">
+      <DependentUpon>FullInfoPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Multiplayer\ChooseCharacters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Multiplayer\ChooseCharacters.Designer.cs">
+      <DependentUpon>ChooseCharacters.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Multiplayer\Lobby.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Multiplayer\Lobby.Designer.cs">
+      <DependentUpon>Lobby.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Homescreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Homescreen.Designer.cs">
+      <DependentUpon>Homescreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General\TypeAdvantagesCalculations.cs" />
+    <Compile Include="Pages\Singleplayer\Inventory\CharacterEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Inventory\CharacterEditor.Designer.cs">
+      <DependentUpon>CharacterEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Inventory\CharacterList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Inventory\CharacterList.Designer.cs">
+      <DependentUpon>CharacterList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Inventory\TeamEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Inventory\TeamEditor.Designer.cs">
+      <DependentUpon>TeamEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Shop\PackInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Shop\PackInfo.Designer.cs">
+      <DependentUpon>PackInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Shop\Shop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Shop\Shop.Designer.cs">
+      <DependentUpon>Shop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Shop\ShopIntro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Shop\ShopIntro.Designer.cs">
+      <DependentUpon>ShopIntro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Story\Admin\AdminChapter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Story\Admin\AdminChapter.Designer.cs">
+      <DependentUpon>AdminChapter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Story\Admin\AdminEpisode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Story\Admin\AdminEpisode.Designer.cs">
+      <DependentUpon>AdminEpisode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Story\Admin\AdminStories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Story\Admin\AdminStories.Designer.cs">
+      <DependentUpon>AdminStories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Story\Admin\AdminStory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Story\Admin\AdminStory.Designer.cs">
+      <DependentUpon>AdminStory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Story\Chapter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Story\Chapter.Designer.cs">
+      <DependentUpon>Chapter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Story\Episode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Story\Episode.Designer.cs">
+      <DependentUpon>Episode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Story\EpisodeInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Story\EpisodeInfo.Designer.cs">
+      <DependentUpon>EpisodeInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Story\Stories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Story\Stories.Designer.cs">
+      <DependentUpon>Stories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Story\Story.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Singleplayer\Story\Story.Designer.cs">
+      <DependentUpon>Story.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Startscreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Startscreen.Designer.cs">
+      <DependentUpon>Startscreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsValues.cs" />
+    <Compile Include="Usercontrolls\BattleArena\ChangeAlternative.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\BattleArena\ChangeAlternative.Designer.cs">
+      <DependentUpon>ChangeAlternative.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrolls\BattleArena\ChangeBackToOriginal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\BattleArena\ChangeBackToOriginal.Designer.cs">
+      <DependentUpon>ChangeBackToOriginal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrolls\BattleArena\ChatArea.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\BattleArena\ChatArea.Designer.cs">
+      <DependentUpon>ChatArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrolls\BattleArena\TypeBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\BattleArena\TypeBox.Designer.cs">
+      <DependentUpon>TypeBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrolls\BattleArena\BattleButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\BattleArena\BattleButton.Designer.cs">
+      <DependentUpon>BattleButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CharacterInfo\CharacterForms.cs" />
+    <Compile Include="CharacterInfo\Stats.cs" />
+    <Compile Include="BattleArena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BattleArena.Designer.cs">
+      <DependentUpon>BattleArena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Character.cs" />
+    <Compile Include="CharacterInfo\Info.cs" />
+    <Compile Include="CharacterInfo\Effects.cs" />
+    <Compile Include="CharacterInfo\Moves.cs" />
+    <Compile Include="General\Functions.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Moves\Move.cs" />
+    <Compile Include="Moves\MoveHandling.cs" />
+    <Compile Include="Moves\MoveList.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Usercontrolls\BattleArena\ChangeCharacter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\BattleArena\ChangeCharacter.Designer.cs">
+      <DependentUpon>ChangeCharacter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrolls\BattleArena\OwnProgressBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\BattleArena\OwnProgressBar.Designer.cs">
+      <DependentUpon>OwnProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\CharacterItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\CharacterItem.Designer.cs">
+      <DependentUpon>CharacterItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\AlternativesListInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\AlternativesListInfo.Designer.cs">
+      <DependentUpon>AlternativesListInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\EffectsInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\EffectsInfo.Designer.cs">
+      <DependentUpon>EffectsInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\Even More Info\CompleteMoveListInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\Even More Info\CompleteMoveListInfo.Designer.cs">
+      <DependentUpon>CompleteMoveListInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\Even More Info\MoveInfoItems.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\Even More Info\MoveInfoItems.Designer.cs">
+      <DependentUpon>MoveInfoItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\Even More Info\MoveSetLister.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\Even More Info\MoveSetLister.Designer.cs">
+      <DependentUpon>MoveSetLister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\InfoInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\InfoInfo.Designer.cs">
+      <DependentUpon>InfoInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\InfoItems\AltCharInfoItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\InfoItems\AltCharInfoItem.Designer.cs">
+      <DependentUpon>AltCharInfoItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\InfoItems\MoveListInfoItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\InfoItems\MoveListInfoItem.Designer.cs">
+      <DependentUpon>MoveListInfoItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\MoveListInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\MoveListInfo.Designer.cs">
+      <DependentUpon>MoveListInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\StatInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\Character\More Info\StatInfo.Designer.cs">
+      <DependentUpon>StatInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrolls\Multiplayer\Chat\ClientViewAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\Multiplayer\Chat\ClientViewAdmin.Designer.cs">
+      <DependentUpon>ClientViewAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrolls\Multiplayer\Chat\ClientViewUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\Multiplayer\Chat\ClientViewUser.Designer.cs">
+      <DependentUpon>ClientViewUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usercontrolls\PageItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usercontrolls\PageItem.Designer.cs">
+      <DependentUpon>PageItem.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BattleArena.resx">
+      <DependentUpon>BattleArena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Character\FullInfoPage.resx">
+      <DependentUpon>FullInfoPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Multiplayer\ChooseCharacters.resx">
+      <DependentUpon>ChooseCharacters.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Multiplayer\Lobby.resx">
+      <DependentUpon>Lobby.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Homescreen.resx">
+      <DependentUpon>Homescreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Singleplayer\Inventory\CharacterEditor.resx">
+      <DependentUpon>CharacterEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Singleplayer\Inventory\CharacterList.resx">
+      <DependentUpon>CharacterList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Singleplayer\Inventory\TeamEditor.resx">
+      <DependentUpon>TeamEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Singleplayer\Shop\PackInfo.resx">
+      <DependentUpon>PackInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Singleplayer\Shop\Shop.resx">
+      <DependentUpon>Shop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Singleplayer\Shop\ShopIntro.resx">
+      <DependentUpon>ShopIntro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Singleplayer\Story\Admin\AdminChapter.resx">
+      <DependentUpon>AdminChapter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Singleplayer\Story\Admin\AdminEpisode.resx">
+      <DependentUpon>AdminEpisode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Singleplayer\Story\Admin\AdminStories.resx">
+      <DependentUpon>AdminStories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Singleplayer\Story\Admin\AdminStory.resx">
+      <DependentUpon>AdminStory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Singleplayer\Story\Chapter.resx">
+      <DependentUpon>Chapter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Singleplayer\Story\Episode.resx">
+      <DependentUpon>Episode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Singleplayer\Story\EpisodeInfo.resx">
+      <DependentUpon>EpisodeInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Singleplayer\Story\Stories.resx">
+      <DependentUpon>Stories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Singleplayer\Story\Story.resx">
+      <DependentUpon>Story.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Startscreen.resx">
+      <DependentUpon>Startscreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrolls\BattleArena\ChangeAlternative.resx">
+      <DependentUpon>ChangeAlternative.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrolls\BattleArena\ChangeBackToOriginal.resx">
+      <DependentUpon>ChangeBackToOriginal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrolls\BattleArena\ChatArea.resx">
+      <DependentUpon>ChatArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrolls\BattleArena\TypeBox.resx">
+      <DependentUpon>TypeBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrolls\BattleArena\BattleButton.resx">
+      <DependentUpon>BattleButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Usercontrolls\BattleArena\ChangeCharacter.resx">
+      <DependentUpon>ChangeCharacter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrolls\BattleArena\OwnProgressBar.resx">
+      <DependentUpon>OwnProgressBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrolls\Character\CharacterItem.resx">
+      <DependentUpon>CharacterItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrolls\Character\More Info\AlternativesListInfo.resx">
+      <DependentUpon>AlternativesListInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrolls\Character\More Info\EffectsInfo.resx">
+      <DependentUpon>EffectsInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrolls\Character\More Info\Even More Info\CompleteMoveListInfo.resx">
+      <DependentUpon>CompleteMoveListInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrolls\Character\More Info\Even More Info\MoveInfoItems.resx">
+      <DependentUpon>MoveInfoItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrolls\Character\More Info\Even More Info\MoveSetLister.resx">
+      <DependentUpon>MoveSetLister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrolls\Character\More Info\InfoInfo.resx">
+      <DependentUpon>InfoInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrolls\Character\More Info\InfoItems\MoveListInfoItem.resx">
+      <DependentUpon>MoveListInfoItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrolls\Character\More Info\MoveListInfo.resx">
+      <DependentUpon>MoveListInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrolls\Character\More Info\StatInfo.resx">
+      <DependentUpon>StatInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrolls\Multiplayer\Chat\ClientViewAdmin.resx">
+      <DependentUpon>ClientViewAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrolls\Multiplayer\Chat\ClientViewUser.resx">
+      <DependentUpon>ClientViewUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrolls\PageItem.resx">
+      <DependentUpon>PageItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="..\.editorconfig">
+      <Link>.editorconfig</Link>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Usercontrolls\Singleplayer\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

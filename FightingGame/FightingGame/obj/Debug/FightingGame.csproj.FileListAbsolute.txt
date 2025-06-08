@@ -1,0 +1,112 @@
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.csproj.AssemblyReference.cache
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.BattleArena.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Properties.Resources.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.OwnProgressBar.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.csproj.GenerateResource.cache
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.csproj.CoreCompileInputs.cache
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\bin\Debug\FightingGame.exe.config
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\bin\Debug\FightingGame.exe
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\bin\Debug\FightingGame.pdb
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.BattleButton.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.csproj.CopyComplete
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.exe
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.pdb
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.MainForm.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.PageItem.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\bin\Debug\FightingGame.exe.config
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\bin\Debug\FightingGame.exe
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\bin\Debug\FightingGame.pdb
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\bin\Debug\Newtonsoft.Json.dll
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\bin\Debug\Newtonsoft.Json.xml
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.csproj.AssemblyReference.cache
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.csproj.SuggestedBindingRedirects.cache
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.BattleArena.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.MainForm.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.BattleButton.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Properties.Resources.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.OwnProgressBar.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.PageItem.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.csproj.GenerateResource.cache
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.csproj.CoreCompileInputs.cache
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.csproj.CopyComplete
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.exe
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.pdb
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.ChangeCharacter.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.ChangeCharacter.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.TypeBox.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.TypeBox.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.ChatArea.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.ChatArea.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.ChangeAlternative.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.ChangeBackToOriginal.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.ChooseCharacters.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Lobby.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Homescreen.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Settings.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Startscreen.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.FullInfoPage.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.CharacterEditor.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.CharacterList.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.TeamEditor.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.PackInfo.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Shop.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.ShopIntro.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.AdminChapter.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.AdminEpisode.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.AdminStories.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.AdminStory.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Chapter.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Episode.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.EpisodeInfo.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Stories.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Story.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.CharacterItem.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.AlternativesListInfo.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.EffectsInfo.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.CompleteMoveListInfo.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.InfoInfo.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.MoveListInfoItem.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.MoveListInfo.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.StatInfo.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.ClientViewAdmin.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.ClientViewUser.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Usercontrolls.Character.More_Info.Even_More_Info.MoveSetLister.resources
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.MoveInfoItems.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.FullInfoPage.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.ChooseCharacters.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Lobby.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Homescreen.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Settings.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.CharacterEditor.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.CharacterList.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.TeamEditor.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.PackInfo.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Shop.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.ShopIntro.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.AdminChapter.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.AdminEpisode.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.AdminStories.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.AdminStory.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Chapter.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Episode.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.EpisodeInfo.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Stories.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Story.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Startscreen.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.ChangeAlternative.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.ChangeBackToOriginal.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.CharacterItem.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.AlternativesListInfo.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.EffectsInfo.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.CompleteMoveListInfo.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.MoveInfoItems.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.Usercontrolls.Character.More_Info.Even_More_Info.MoveSetLister.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.InfoInfo.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.MoveListInfoItem.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.MoveListInfo.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.StatInfo.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.ClientViewAdmin.resources
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\FightingGame\FightingGame\obj\Debug\FightingGame.ClientViewUser.resources

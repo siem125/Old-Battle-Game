@@ -1,0 +1,48 @@
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\SocketTest\bin\Debug\net5.0\SocketTest.exe
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\SocketTest\bin\Debug\net5.0\SocketTest.deps.json
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\SocketTest\bin\Debug\net5.0\SocketTest.runtimeconfig.json
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\SocketTest\bin\Debug\net5.0\SocketTest.runtimeconfig.dev.json
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\SocketTest\bin\Debug\net5.0\SocketTest.dll
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\SocketTest\bin\Debug\net5.0\ref\SocketTest.dll
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\SocketTest\bin\Debug\net5.0\SocketTest.pdb
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.csproj.AssemblyReference.cache
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.AssemblyInfoInputs.cache
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.AssemblyInfo.cs
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.csproj.CoreCompileInputs.cache
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.dll
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\SocketTest\obj\Debug\net5.0\ref\SocketTest.dll
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.pdb
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.genruntimeconfig.cache
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\SocketTest\bin\Debug\net5.0\SocketTest.exe
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\SocketTest\bin\Debug\net5.0\SocketTest.deps.json
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\SocketTest\bin\Debug\net5.0\SocketTest.runtimeconfig.json
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\SocketTest\bin\Debug\net5.0\SocketTest.runtimeconfig.dev.json
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\SocketTest\bin\Debug\net5.0\SocketTest.dll
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\SocketTest\bin\Debug\net5.0\ref\SocketTest.dll
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\SocketTest\bin\Debug\net5.0\SocketTest.pdb
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.csproj.AssemblyReference.cache
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.AssemblyInfoInputs.cache
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.AssemblyInfo.cs
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.csproj.CoreCompileInputs.cache
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.dll
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\SocketTest\obj\Debug\net5.0\ref\SocketTest.dll
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.pdb
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.genruntimeconfig.cache
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\SocketTest\bin\Debug\net5.0\SocketTest.exe
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\SocketTest\bin\Debug\net5.0\SocketTest.deps.json
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\SocketTest\bin\Debug\net5.0\SocketTest.runtimeconfig.json
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\SocketTest\bin\Debug\net5.0\SocketTest.runtimeconfig.dev.json
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\SocketTest\bin\Debug\net5.0\SocketTest.dll
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\SocketTest\bin\Debug\net5.0\ref\SocketTest.dll
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\SocketTest\bin\Debug\net5.0\SocketTest.pdb
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.csproj.AssemblyReference.cache
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.AssemblyInfoInputs.cache
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.AssemblyInfo.cs
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.csproj.CoreCompileInputs.cache
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.dll
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\SocketTest\obj\Debug\net5.0\ref\SocketTest.dll
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.pdb
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\SocketTest\obj\Debug\net5.0\SocketTest.genruntimeconfig.cache

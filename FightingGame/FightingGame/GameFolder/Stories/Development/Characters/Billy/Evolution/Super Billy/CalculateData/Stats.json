@@ -1,0 +1,16 @@
+{
+  "Stats": {
+    "minAttack": 50,
+    "maxAttack": 50,
+    "minDefence": 30,
+    "maxDefence": 30,
+    "minMagicAttack": 20,
+    "maxMagicAttack": 20,
+    "minMagicDefense": 5,
+    "maxMagicDefense": 5,
+    "minSpeed": 30,
+    "maxSpeed": 30,
+    "minEvasiveness": 30,
+    "maxEvasiveness": 30
+  }
+}

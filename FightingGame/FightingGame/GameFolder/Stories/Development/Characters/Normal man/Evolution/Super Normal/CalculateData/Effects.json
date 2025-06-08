@@ -1,0 +1,21 @@
+{
+  "StartEffects": {
+    "ailments": [],
+    "minBuffHealth": 0,
+    "maxBuffHealth": 0,
+    "minBuffAttackLevel": 0,
+    "maxBuffAttackLevel": 0,
+    "minBuffDefenceLevel": 0,
+    "maxBuffDefenceLevel": 0,
+    "minBuffMagicAttackLevel": 0,
+    "maxBuffMagicAttackLevel": 0,
+    "minBuffMagicDefenceLevel": 0,
+    "maxBuffMagicDefenceLevel": 0,
+    "minBuffSpeed": 0,
+    "maxBuffSpeed": 0,
+    "minBuffEvasiveness": 0,
+    "maxBuffEvasiveness": 0,
+    "minClonesAmount": 0,
+    "maxClonesAmount": 0
+  }
+}

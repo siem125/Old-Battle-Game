@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9f16ea42-bcb3-47d9-85b5-ab236ea46e96": {
+      "ProjectGuid": "9f16ea42-bcb3-47d9-85b5-ab236ea46e96",
+      "DisplayName": "SocketTest",
+      "ColorIndex": 0
+    },
+    "e3edf4af-392b-406b-98d4-7c77a5cdada8": {
+      "ProjectGuid": "e3edf4af-392b-406b-98d4-7c77a5cdada8",
+      "DisplayName": "Server",
+      "ColorIndex": 1
+    },
+    "7c90c50e-d986-4ca1-a0a7-47f8f070a7a0": {
+      "ProjectGuid": "7c90c50e-d986-4ca1-a0a7-47f8f070a7a0",
+      "DisplayName": "Listener",
+      "ColorIndex": 2
+    },
+    "76983143-8abd-4c41-ac8d-5f38a515a5ab": {
+      "ProjectGuid": "76983143-8abd-4c41-ac8d-5f38a515a5ab",
+      "DisplayName": "Server",
+      "ColorIndex": 3
+    },
+    "1e463023-5f02-4019-be98-e93ec880562a": {
+      "ProjectGuid": "1e463023-5f02-4019-be98-e93ec880562a",
+      "DisplayName": "Client",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

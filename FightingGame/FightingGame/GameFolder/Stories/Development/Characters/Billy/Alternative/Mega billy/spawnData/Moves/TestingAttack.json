@@ -1,0 +1,20 @@
+{
+  "name": "TestingAttack",
+  "series": "Development",
+  "ableToLearnFromLevel": 0,
+  "amount": 30,
+  "priority": 2,
+  "accuracy": "100",
+  "elements": "Elements.Normal",
+  "moves": [
+    {
+      "type": "attack",
+      "target": "single",
+      "element": "Elements.Normal",
+      "number": "30",
+      "isBuildUpTurns": "true",
+      "turns": "0",
+      "amount": 30
+    }
+  ]
+}

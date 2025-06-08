@@ -1,0 +1,16 @@
+{
+  "name": "TestingAttack",
+  "series": "Development",
+  "ableToLearnFromLevel": 0,
+  "amount": 30,
+  "elements": [ "Elements.Normal" ],
+  "moves": [
+    {
+      "type": "attack",
+      "target": "single",
+      "number": "30",
+      "accuracy": "100",
+      "turns": "0"
+    }
+  ]
+}

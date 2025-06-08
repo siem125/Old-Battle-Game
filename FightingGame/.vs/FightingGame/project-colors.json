@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6b77763b-2c7e-4898-9620-59dfccc11311": {
+      "ProjectGuid": "6b77763b-2c7e-4898-9620-59dfccc11311",
+      "DisplayName": "FightingGame",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "eb24a648-16ab-4220-8ad2-0c6d69fce92d": {
+      "ProjectGuid": "eb24a648-16ab-4220-8ad2-0c6d69fce92d",
+      "DisplayName": "Server",
+      "ColorIndex": 1
+    },
+    "4361ecd1-7f70-463d-a2ab-073da1def46b": {
+      "ProjectGuid": "4361ecd1-7f70-463d-a2ab-073da1def46b",
+      "DisplayName": "OwnControls",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

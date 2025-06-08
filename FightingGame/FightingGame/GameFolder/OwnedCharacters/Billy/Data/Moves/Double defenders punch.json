@@ -1,0 +1,79 @@
+{
+  "name": "Double defenders punch",
+  "series": "Development",
+  "ableToLearnFromLevel": 0,
+  "amount": 20,
+  "elements": "Elements.Fighting",
+  "moves": [
+    {
+      "type": "MoveType.attack",
+      "target": "TargetType.all",
+      "element": "Elements.Fighting",
+      "number": "30",
+      "chosen": "null",
+      "isBuildUpTurns": "true",
+      "turns": 0,
+      "amount": 1
+    },
+    {
+      "type": "MoveType.magic",
+      "target": "TargetType.self",
+      "element": "Elements.Fighting",
+      "number": "10",
+      "chosen": "null",
+      "isBuildUpTurns": "true",
+      "turns": 0,
+      "amount": 1
+    },
+    {
+      "type": "MoveType.defence",
+      "target": "TargetType.self",
+      "element": "Elements.Fighting",
+      "number": "null",
+      "chosen": "null",
+      "isBuildUpTurns": "true",
+      "turns": 0,
+      "amount": 1
+    },
+    {
+      "type": "MoveType.buff",
+      "target": "TargetType.self",
+      "element": "Elements.Fighting",
+      "number": "100000",
+      "chosen": "defence",
+      "isBuildUpTurns": "true",
+      "turns": 0,
+      "amount": 1
+    },
+    {
+      "type": "MoveType.debuff",
+      "target": "TargetType.single",
+      "element": "Elements.Fighting",
+      "number": "10000",
+      "chosen": "attack",
+      "isBuildUpTurns": "true",
+      "turns": 0,
+      "amount": 1
+    },
+    {
+      "type": "MoveType.give",
+      "target": "TargetType.single",
+      "element": "Elements.Fighting",
+      "number": "null",
+      "chosen": "Asleep",
+      "isBuildUpTurns": "true",
+      "turns": 0,
+      "amount": 1
+    },
+    {
+      "type": "MoveType.give",
+      "target": "TargetType.single",
+      "element": "Elements.Fighting",
+      "number": "null",
+      "chosen": "Poisoned",
+      "isBuildUpTurns": "true",
+      "turns": 0,
+      "amount": 1
+    }
+  ]
+}

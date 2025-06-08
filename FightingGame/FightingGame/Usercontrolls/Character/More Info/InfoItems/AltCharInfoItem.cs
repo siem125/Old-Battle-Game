@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace FightingGame
+{
+    public partial class AltCharInfoItem : UserControl
+    {
+        private AlternativeCharacter alt;
+
+        public AltCharInfoItem(AlternativeCharacter alt)
+        {
+            InitializeComponent();
+
+            this.alt = alt;
+            loadInfo();
+        }
+
+        private void loadInfo()
+        {
+            //loads the showable info
+        }
+    }
+}

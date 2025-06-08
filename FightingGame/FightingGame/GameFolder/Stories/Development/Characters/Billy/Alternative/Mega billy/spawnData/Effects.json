@@ -1,0 +1,13 @@
+{
+  "StartEffects": {
+    "ailments": [],
+    "calcBuffHealth": 0,
+    "calcBuffAttackLevel": 0,
+    "calcBuffDefenceLevel": 0,
+    "calcBuffMagicAttackLevel": 0,
+    "calcBuffMagicDefenceLevel": 0,
+    "calcBuffSpeed": 0,
+    "calcBuffEvasiveness": 0,
+    "calcClonesAmount": 0
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "attack": 50,
+  "defence": 30,
+  "magicAttack": 20,
+  "magicDefense": 5,
+  "speed": 30,
+  "accuracy": 30,
+  "evasiveness": 30
+}

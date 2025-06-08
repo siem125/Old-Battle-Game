@@ -1,0 +1,9 @@
+{
+  "level": 20,
+  "evolutionLevel": 30,
+  "uniqueName": "Billy",
+  "series": "Development",
+  "name": "John",
+  "maxHealth": 230,
+  "elements": [ "Elements.Normal", "Elements.Fighting" ]
+}

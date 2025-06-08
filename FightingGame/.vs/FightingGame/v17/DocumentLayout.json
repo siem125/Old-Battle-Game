@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B77763B-2C7E-4898-9620-59DFCCC11311}|FightingGame\\FightingGame.csproj|e:\\7. tools\\github\\old-battle-game\\fightinggame\\fightinggame\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B77763B-2C7E-4898-9620-59DFCCC11311}|FightingGame\\FightingGame.csproj|solutionrelative:fightinggame\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B77763B-2C7E-4898-9620-59DFCCC11311}|FightingGame\\FightingGame.csproj|e:\\7. tools\\github\\old-battle-game\\fightinggame\\fightinggame\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B77763B-2C7E-4898-9620-59DFCCC11311}|FightingGame\\FightingGame.csproj|solutionrelative:fightinggame\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B77763B-2C7E-4898-9620-59DFCCC11311}|FightingGame\\FightingGame.csproj|e:\\7. tools\\github\\old-battle-game\\fightinggame\\fightinggame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B77763B-2C7E-4898-9620-59DFCCC11311}|FightingGame\\FightingGame.csproj|solutionrelative:fightinggame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B77763B-2C7E-4898-9620-59DFCCC11311}|FightingGame\\FightingGame.csproj|e:\\7. tools\\github\\old-battle-game\\fightinggame\\fightinggame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B77763B-2C7E-4898-9620-59DFCCC11311}|FightingGame\\FightingGame.csproj|solutionrelative:fightinggame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B77763B-2C7E-4898-9620-59DFCCC11311}|FightingGame\\FightingGame.csproj|e:\\7. tools\\github\\old-battle-game\\fightinggame\\fightinggame\\battlearena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B77763B-2C7E-4898-9620-59DFCCC11311}|FightingGame\\FightingGame.csproj|solutionrelative:fightinggame\\battlearena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B77763B-2C7E-4898-9620-59DFCCC11311}|FightingGame\\FightingGame.csproj|E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\fightinggame\\battlearena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B77763B-2C7E-4898-9620-59DFCCC11311}|FightingGame\\FightingGame.csproj|solutionrelative:fightinggame\\battlearena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B77763B-2C7E-4898-9620-59DFCCC11311}|FightingGame\\FightingGame.csproj|e:\\7. tools\\github\\old-battle-game\\fightinggame\\fightinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B77763B-2C7E-4898-9620-59DFCCC11311}|FightingGame\\FightingGame.csproj|solutionrelative:fightinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B77763B-2C7E-4898-9620-59DFCCC11311}|FightingGame\\FightingGame.csproj|e:\\7. tools\\github\\old-battle-game\\fightinggame\\fightinggame\\settingsvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B77763B-2C7E-4898-9620-59DFCCC11311}|FightingGame\\FightingGame.csproj|solutionrelative:fightinggame\\settingsvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB24A648-16AB-4220-8AD2-0C6D69FCE92D}|Server\\Server.csproj|e:\\7. tools\\github\\old-battle-game\\fightinggame\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB24A648-16AB-4220-8AD2-0C6D69FCE92D}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\FightingGame\\MainForm.cs",
+              "RelativeDocumentMoniker": "FightingGame\\MainForm.cs",
+              "ToolTip": "E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\FightingGame\\MainForm.cs",
+              "RelativeToolTip": "FightingGame\\MainForm.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:51:56.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\FightingGame\\MainForm.cs",
+              "RelativeDocumentMoniker": "FightingGame\\MainForm.cs",
+              "ToolTip": "E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\FightingGame\\MainForm.cs [Design]",
+              "RelativeToolTip": "FightingGame\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:51:54.745Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\FightingGame\\Form1.cs",
+              "RelativeDocumentMoniker": "FightingGame\\Form1.cs",
+              "ToolTip": "E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\FightingGame\\Form1.cs",
+              "RelativeToolTip": "FightingGame\\Form1.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:51:44.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\FightingGame\\Form1.cs",
+              "RelativeDocumentMoniker": "FightingGame\\Form1.cs",
+              "ToolTip": "E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\FightingGame\\Form1.cs [Design]",
+              "RelativeToolTip": "FightingGame\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:50:48.795Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\FightingGame\\Program.cs",
+              "RelativeDocumentMoniker": "FightingGame\\Program.cs",
+              "ToolTip": "E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\FightingGame\\Program.cs",
+              "RelativeToolTip": "FightingGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:50:44.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingsValues.cs",
+              "DocumentMoniker": "E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\FightingGame\\SettingsValues.cs",
+              "RelativeDocumentMoniker": "FightingGame\\SettingsValues.cs",
+              "ToolTip": "E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\FightingGame\\SettingsValues.cs",
+              "RelativeToolTip": "FightingGame\\SettingsValues.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:50:38.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:50:29.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BattleArena.cs",
+              "DocumentMoniker": "E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\FightingGame\\BattleArena.cs",
+              "RelativeDocumentMoniker": "FightingGame\\BattleArena.cs",
+              "ToolTip": "E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\FightingGame\\BattleArena.cs",
+              "RelativeToolTip": "FightingGame\\BattleArena.cs",
+              "ViewState": "AgIAAK0BAAAAAAAAAAAmwDIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:50:18.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BattleArena.cs [Design]",
+              "DocumentMoniker": "E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\FightingGame\\BattleArena.cs",
+              "RelativeDocumentMoniker": "FightingGame\\BattleArena.cs",
+              "ToolTip": "E:\\7. Tools\\Github\\Old-Battle-Game\\FightingGame\\FightingGame\\BattleArena.cs [Design]",
+              "RelativeToolTip": "FightingGame\\BattleArena.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T11:50:18.756Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "ailments": [],
+  "BuffHealth": 0,
+  "BuffAttackLevel": 0,
+  "BuffDefenceLevel": 0,
+  "BuffMagicAttackLevel": 0,
+  "BuffMagicDefenceLevel": 0,
+  "BuffSpeed": 0,
+  "BuffEvasiveness": 0,
+  "ClonesAmount": 0
+}

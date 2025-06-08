@@ -1,0 +1,11 @@
+{
+  "ailments": [],
+  "buffHealth": 0,
+  "buffAttackLevel": 0,
+  "buffDefenceLevel": 0,
+  "buffMagicAttackLevel": 0,
+  "buffMagicDefenceLevel": 0,
+  "buffSpeed": 0,
+  "buffEvasiveness": 0,
+  "clonesAmount": 0
+}

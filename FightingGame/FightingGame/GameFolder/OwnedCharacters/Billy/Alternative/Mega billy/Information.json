@@ -1,0 +1,6 @@
+{
+  "uniqueName": "Mega Billy",
+  "series": "Development",
+  "maxHealth": 230,
+  "elements": [ "Elements.Almighty", "Elements.Light" ]
+}

@@ -1,0 +1,10 @@
+{
+  "level": 0,
+  "evolutionLevel": 30,
+  "uniqueName": "Super Normal",
+  "series": "Development",
+  "name": "Super Normal",
+  "minHealth": 190,
+  "maxHealth": 230,
+  "elements": [ "Elements.Normal", "Elements.Fighting" ]
+}

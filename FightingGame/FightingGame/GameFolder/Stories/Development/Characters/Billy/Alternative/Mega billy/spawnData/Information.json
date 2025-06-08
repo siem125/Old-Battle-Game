@@ -1,0 +1,7 @@
+{
+  "level": 0,
+  "uniqueName": "Billy",
+  "series": "Development",
+  "maxHealth": 230,
+  "elements": [ "Elements.Normal", "Elements.Fighting" ]
+}

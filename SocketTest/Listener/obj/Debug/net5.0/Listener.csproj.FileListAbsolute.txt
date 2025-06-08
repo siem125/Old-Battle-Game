@@ -1,0 +1,48 @@
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\Listener\bin\Debug\net5.0\Listener.exe
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\Listener\bin\Debug\net5.0\Listener.deps.json
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\Listener\bin\Debug\net5.0\Listener.runtimeconfig.json
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\Listener\bin\Debug\net5.0\Listener.runtimeconfig.dev.json
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\Listener\bin\Debug\net5.0\Listener.dll
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\Listener\bin\Debug\net5.0\ref\Listener.dll
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\Listener\bin\Debug\net5.0\Listener.pdb
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\Listener\obj\Debug\net5.0\Listener.csproj.AssemblyReference.cache
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\Listener\obj\Debug\net5.0\Listener.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\Listener\obj\Debug\net5.0\Listener.AssemblyInfoInputs.cache
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\Listener\obj\Debug\net5.0\Listener.AssemblyInfo.cs
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\Listener\obj\Debug\net5.0\Listener.csproj.CoreCompileInputs.cache
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\Listener\obj\Debug\net5.0\Listener.dll
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\Listener\obj\Debug\net5.0\ref\Listener.dll
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\Listener\obj\Debug\net5.0\Listener.pdb
+D:\2. School\2. Semester 2\IndividualProject\SocketTest\Listener\obj\Debug\net5.0\Listener.genruntimeconfig.cache
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\Listener\bin\Debug\net5.0\Listener.exe
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\Listener\bin\Debug\net5.0\Listener.deps.json
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\Listener\bin\Debug\net5.0\Listener.runtimeconfig.json
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\Listener\bin\Debug\net5.0\Listener.runtimeconfig.dev.json
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\Listener\bin\Debug\net5.0\Listener.dll
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\Listener\bin\Debug\net5.0\ref\Listener.dll
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\Listener\bin\Debug\net5.0\Listener.pdb
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\Listener\obj\Debug\net5.0\Listener.csproj.AssemblyReference.cache
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\Listener\obj\Debug\net5.0\Listener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\Listener\obj\Debug\net5.0\Listener.AssemblyInfoInputs.cache
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\Listener\obj\Debug\net5.0\Listener.AssemblyInfo.cs
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\Listener\obj\Debug\net5.0\Listener.csproj.CoreCompileInputs.cache
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\Listener\obj\Debug\net5.0\Listener.dll
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\Listener\obj\Debug\net5.0\ref\Listener.dll
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\Listener\obj\Debug\net5.0\Listener.pdb
+C:\Users\SGVer\Documents\GitHub\Project-battle-game\SocketTest\Listener\obj\Debug\net5.0\Listener.genruntimeconfig.cache
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\Listener\bin\Debug\net5.0\Listener.exe
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\Listener\bin\Debug\net5.0\Listener.deps.json
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\Listener\bin\Debug\net5.0\Listener.runtimeconfig.json
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\Listener\bin\Debug\net5.0\Listener.runtimeconfig.dev.json
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\Listener\bin\Debug\net5.0\Listener.dll
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\Listener\bin\Debug\net5.0\ref\Listener.dll
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\Listener\bin\Debug\net5.0\Listener.pdb
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\Listener\obj\Debug\net5.0\Listener.csproj.AssemblyReference.cache
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\Listener\obj\Debug\net5.0\Listener.GeneratedMSBuildEditorConfig.editorconfig
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\Listener\obj\Debug\net5.0\Listener.AssemblyInfoInputs.cache
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\Listener\obj\Debug\net5.0\Listener.AssemblyInfo.cs
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\Listener\obj\Debug\net5.0\Listener.csproj.CoreCompileInputs.cache
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\Listener\obj\Debug\net5.0\Listener.dll
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\Listener\obj\Debug\net5.0\ref\Listener.dll
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\Listener\obj\Debug\net5.0\Listener.pdb
+D:\3. Projects\0. Programming\0. Git\OwnProject\Project-battle-game\SocketTest\Listener\obj\Debug\net5.0\Listener.genruntimeconfig.cache

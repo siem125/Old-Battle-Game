@@ -1,0 +1,76 @@
+{
+  "name": "Double defenders punch",
+  "series": "Development",
+  "ableToLearnFromLevel": 0,
+  "amount": 20,
+  "elements": "Elements.Fighting",
+  "moves": [
+    {
+      "type": "attack",
+      "target": "all",
+      "element": "Elements.Fighting",
+      "number": "30",
+      "isBuildUpTurns": "true",
+      "turns": "0",
+      "amount": 1
+    },
+    {
+      "type": "magic",
+      "target": "self",
+      "element": "Elements.Fighting",
+      "number": "10",
+      "isBuildUpTurns": "true",
+      "turns": "0",
+      "amount": 1
+    },
+    {
+      "type": "defence",
+      "target": "self",
+      "element": "Elements.Fighting",
+      "number": null,
+      "isBuildUpTurns": "true",
+      "turns": "0",
+      "amount": 1
+    },
+    {
+      "type": "buff",
+      "target": "self",
+      "element": "Elements.Fighting",
+      "number": "100000",
+      "chosen":  "defence",
+      "isBuildUpTurns": "true",
+      "turns": "0",
+      "amount": 1
+    },
+    {
+      "type": "debuff",
+      "target": "single",
+      "element": "Elements.Fighting",
+      "number": "10000",
+      "chosen": "attack",
+      "isBuildUpTurns": "true",
+      "turns": "0",
+      "amount": 1
+    },
+    {
+      "type": "give",
+      "target": "single",
+      "element": "Elements.Fighting",
+      "number": null,
+      "chosen": "Ailments.Asleep",
+      "isBuildUpTurns": "true",
+      "turns": "0",
+      "amount": 1
+    },
+    {
+      "type": "give",
+      "target": "single",
+      "element": "Elements.Fighting",
+      "number": null,
+      "chosen": "Ailments.Poisoned",
+      "isBuildUpTurns": "true",
+      "turns": "0",
+      "amount": 1
+    }
+  ]
+}

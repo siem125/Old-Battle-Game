@@ -1,0 +1,73 @@
+{
+  "First": {
+    "name": "TestingAttack",
+    "amount": 30,
+    "elements": ["Elements.Normal"],
+    "moves": [
+      {
+        "type": "attack",
+        "target": "single",
+        "number": "30",
+        "accuracy": "100",
+        "turns": "0"
+      }
+    ]
+  },
+
+  "Second": {
+    "name":  "Double defenders punch",
+    "amount": 20,
+    "elements": [ "Elements.Normal", "Elements.Fighting" ],
+    "moves": [
+      {
+        "type": "attack",
+        "target": "all",
+        "number": "30",
+        "accuracy": "100",
+        "turns": "0"
+      },
+      {
+        "type": "magic",
+        "target": "self",
+        "number": "10",
+        "accuracy": "100",
+        "turns": "0"
+      },
+      {
+        "type": "defence",
+        "target": "self",
+        "number": null,
+        "accuracy": null,
+        "turns": "0"
+      },
+      {
+        "type": "buff",
+        "target": "self",
+        "number": "100000",
+        "accuracy": "defence",
+        "turns": "0"
+      },
+      {
+        "type": "debuff",
+        "target": "single",
+        "number": "10000",
+        "accuracy": "attack",
+        "turns": "0"
+      },
+      {
+        "type": "give",
+        "target": "single",
+        "number": null,
+        "accuracy": "Ailments.Asleep",
+        "turns": "0"
+      },
+      {
+        "type": "give",
+        "target": "single",
+        "number": null,
+        "accuracy": "Ailments.Poisoned",
+        "turns": "0"
+      }
+    ]
+  }
+}

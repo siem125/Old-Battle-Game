@@ -1,0 +1,10 @@
+{
+  "Stats": {
+    "calcAttack": 50,
+    "calcDefence": 30,
+    "calcMagicAttack": 20,
+    "calcMagicDefense": 5,
+    "calcSpeed": 30,
+    "calcEvasiveness": 30
+  }
+}
